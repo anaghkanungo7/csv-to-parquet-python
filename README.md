@@ -1,4 +1,4 @@
-# CSV to Parquet Conversion and Metadata Check
+# CSV to Parquet Conversion and Metadata Generation
 
 Python project to convert CSV to Parquet, and use an LLM to add metadata to the columns. 
 
